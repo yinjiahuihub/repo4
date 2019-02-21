@@ -10,4 +10,7 @@ public class git {
     public void test(){
         System.out.println("放");
     }
+    public void test2(){
+        System.out.println("开发感慨");
+    }
 }
